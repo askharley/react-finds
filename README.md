@@ -5,6 +5,9 @@
 - [Redux](https://github.com/reduxjs/redux)
 - [Axios](https://github.com/axios/axios)
 
+## Redux
+- [redux-actions](https://github.com/redux-utilities/redux-actions)
+
 ## Patterns
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Ducks](https://github.com/erikras/ducks-modular-redux)
